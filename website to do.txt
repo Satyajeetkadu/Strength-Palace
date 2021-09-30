@@ -1,0 +1,15 @@
+TO DO:
+CONNECT BOOK SESSION FORM TO DATA BASE
+CONNECT CONTACT US FORM TO DATA BASE
+HOST
+
+finished:
+Front end 80% finished html css js bootstrap
+content remaining
+membership page form remaining
+old people exercise page remaining
+book session form
+hosting remainig
+database remaining 
+audio(Opt)
+
