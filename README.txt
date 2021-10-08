@@ -1,16 +1,30 @@
 
 TITLE: 
-Fitness - 100% Fully Responsive Free HTML5 Bootstrap Template
+Strength Palace 
+
+ABOUT:
+I have developed this website using HTML,CSS,JS,Bootstrap,jQuery,Firebase realtime database and is also hosted using Firebase Servers.
+This website has many functionalities such as:-
+  1) Gym sessions can be booked using a simple form.
+  2) View gym sessions from Monday to Sunday.
+  3) Learn about various exercise techniques for all body parts using Form-Check Functionality.
+  4) Check out gym trainers available onboard and contact them via social media.
+  5) Learn about Nutrition tips for being healthy.
+  6) A unique page for the elderly, which shows them exercises for a long and sound life.
+
+  You can check out my website on : https://gymwebsite-c4fd8.web.app
 
 AUTHOR:
-DESIGNED & DEVELOPED by FeeeHTML5.co
+DESIGNED & DEVELOPED by Satyajeet Kadu
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Twitter: https://twitter.com/SatyajeetKadu
+Instagram: https://www.instagram.com/satyajeetkadu/?hl=en
 
 
 CREDITS:
+
+Firebase: 
+https://firebase.google.com
 
 Bootstrap
 http://getbootstrap.com/
@@ -36,8 +50,6 @@ http://flaticon.com
 Images
 http://unsplash.com/
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
 animate.css
 http://daneden.me/animate
