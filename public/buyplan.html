@@ -88,7 +88,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell animate-box">
-							<h1 class="text-center">BOOK A SESSION</h1>
+							<h1 class="text-center">BECOME  A  MEMBER</h1>
 							<p>Start your fitness journey now by joining us now and experiencing our amazing gym enviornment.</p>
 						</div>
 					</div>
@@ -110,20 +110,24 @@
 							</ul>
 						</div>
 						<div class="col-md-4	 animate-box">
-							<h3 class="section-title">BOOK SESSION</h3>
+							<h3 class="section-title">BUY A PLAN</h3>
 							<form class="contact-form" id = contactForm>
 								<label for="">Name</label><br />
 								<input class="name" type="text" placeholder="name" id="name" required/><br />
 								<label for="">Age</label><br />
 								<input class="age" type="number" placeholder="age" id="age" required/><br />
-								<label for="">Time</label><br />
-								<input class="time" type="time" placeholder="time" id="time" required/><br />
-								<label for="">Date</label><br />
-								<input class="date" type="date" placeholder="date" id="date" required/><br />
 								<label for="">Email</label><br />
 								<input class="email" type="email" placeholder="email" id= "email"required/><br />
+                                <label for="plans">Choose a Plan:</label>
+                                    <select name="plans" id="plan">
+                                    <option value="Starter">Starter- ₹280</option>
+                                    <option value="Basic">Basic- ₹570</option>
+                                    <option value="Pro">Pro- ₹760</option>
+                                    <option value="Unlimited">Unlimited- ₹999</option>
+                                    </select>
+                                <br><br>
 								
-								<button type="submit" >Submit</button>
+								<button type="submit" >Become a member</button>
 							  </form>
 						</div>
 					</div>
@@ -190,8 +194,8 @@
 					</div>
 				</div>
 			</div>
-		</footer>
-	 -->
+		</footer> -->
+	
 
 	</div>
 	<!-- END fh5co-page -->
@@ -220,7 +224,7 @@
 	<script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/7.15.5/firebase-database.js"></script>
 
-	<script src= js/booksession.js></script>
+	<script src= js/buyplan.js></script>
 	  </script>
 	</body>
 </html>
